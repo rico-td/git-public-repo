@@ -10,3 +10,5 @@ addItem("Horst", "Kurt")
 print(dictionary["Horst"])
 
 print(dictionary["Schlüssel"])
+
+print()
