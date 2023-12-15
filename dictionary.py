@@ -11,4 +11,4 @@ print(dictionary["Horst"])
 
 print(dictionary["Schlüssel"])
 
-print(1+2)
+print()
