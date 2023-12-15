@@ -13,5 +13,4 @@ def calculater(x,y,input_operater):
     # y = pyinputplus.inputFloat("enter the 2nd float number")
     # input_operater = pyinputplus.inputStr("enter the operator")
     
-    print(f"result of {x} {input_operater} {y} is: {result}")
-
+    print(f"result of {x} {input_operater} {y}: {result}")
